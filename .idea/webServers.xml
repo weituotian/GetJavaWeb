@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8a87a486-d17d-4787-ad17-8a9b0cc497cd" name="wamp" url="http://localhost/">
+        <fileTransfer mountedRoot="E:\php2\wamp\bin\apache\apache2.4.9\htdocs" accessType="MOUNT" />
+      </webServer>
+      <webServer id="69c7ef55-26e2-465c-97b2-d7e8e381aa5e" name="wamp2" url="http://localhost/">
+        <fileTransfer mountedRoot="E:\php2\wamp\bin\apache\apache2.4.9\htdocs" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
